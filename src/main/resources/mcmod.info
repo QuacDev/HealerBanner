@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "healerbanner",
+    "name": "HealerBanner",
+    "description": "Automatically ignore add healers that join your dungeon party",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      ""
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
